@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Authentication.OAuth.Claims;
 using Newtonsoft.Json.Linq;
 
+
+//https://github.com/tstojecki/Security/blob/ca24b79b2cc2c50bc2d09407204a253b22389b88/src/Microsoft.AspNetCore.Authentication.OAuth/Claims/JsonKeyClaimAction.cs
 namespace MvcClient
 {
     /// <inheritdoc />
